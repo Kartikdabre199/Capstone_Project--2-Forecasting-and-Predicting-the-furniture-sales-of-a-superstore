@@ -1,4 +1,4 @@
-# Forecasting-and-Predicting-the-furniture-sales-of-a-superstore using time series analysis 
+# Forecasting and the Prediction of furniture sales in a superstore using time series analysis 
 ## Time series analysis
 Time series analysis comprises methods for analyzing time series data in order to extract meaningful statistics and other 
 characteristics of the data
